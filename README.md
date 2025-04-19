@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Debasish Mondal</h1>
 <h3 align="center">A passionate software developer and Coding enthusiast</h3>
 
-- 🌱 I’m currently learning **App evelopmment**
+- 🌱 I’m currently learning **App Developmment**
 
 - 📫 How to reach me **debasishmondal1205@gamil.com**
 
